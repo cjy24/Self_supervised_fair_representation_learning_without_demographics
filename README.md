@@ -9,13 +9,10 @@ Please install all necessary packages via: pip install -r requirements.txt
 # Usage
 
 To run the experiments, please change the file directory accordingly. The CelebA dataset can be obtained at: https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
-
-# Training 
-python train.py
+$ python train.py
 
 # Testing
-
-python test.py
+$ python test.py
 
 # Citation
 
